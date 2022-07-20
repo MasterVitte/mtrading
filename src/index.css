@@ -1,10 +1,18 @@
+:root {
+  --black: #080816;
+  --gray: #F5F7F9;
+  --green: #34B428;
+  --purple: #8A24F3;
+  --dark-purple: #4F118F;
+}
+
+h5 {
+  margin: 0;
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Roboto', sans-serif;
 }
 
 code {
